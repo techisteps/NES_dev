@@ -1,0 +1,15 @@
+$80A7#ReadLoop#
+$8096#Continue#
+$8093#B_released#
+$808D#B_pressed#
+$8090#B_held#
+$807B#A_released#
+$8066#A_pressed#
+$8078#A_held#
+$8099#ReadController#
+$8030#MainLoop#
+$8021#WaitVBlank#
+$800D#Start#
+$800C#irqProc#
+$800D#StartProc#
+$8000#nmiProc#
